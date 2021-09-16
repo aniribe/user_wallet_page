@@ -6,10 +6,10 @@ import 'package:user_wallet/config/size.dart';
 class CustomAppBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-//    double height = SizeConfig.getHeight(context);
     double width = SizeConfig.getWidth(context);
 
     return Container(
+      margin: EdgeInsets.symmetric(horizontal: 20),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [

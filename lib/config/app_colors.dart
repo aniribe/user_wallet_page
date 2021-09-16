@@ -44,4 +44,18 @@ class AppColors {
         offset: Offset(-5, 7),
         blurRadius: 15)
   ];
+
+  static List<BoxShadow> neumorpShadowForCircles = [
+    BoxShadow(
+      color: Colors.blue[900]!.withOpacity(0.2),
+      blurRadius: 50,
+      spreadRadius: 2,
+      offset: Offset(20, 0),
+    ),
+    BoxShadow(
+        color: Colors.white12,
+        blurRadius: 0,
+        spreadRadius: -2,
+        offset: Offset(0, 0))
+  ];
 }
