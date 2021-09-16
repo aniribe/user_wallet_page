@@ -9,4 +9,5 @@ For graphical display of expenses, a pie chart is used, which is built without t
 ## Technologies used:
 
 • Flutter
+
 • Dart
