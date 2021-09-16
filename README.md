@@ -1,5 +1,7 @@
 # User Wallet View
 
+<img src="https://github.com/aniribe/user_wallet_page/blob/main/assets/images/screen.jpg">
+
 A page with user's credit cards for a Flutter application.
 
 For graphical display of expenses, a pie chart is used, which is built without third-party libraries.
