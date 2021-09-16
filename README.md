@@ -1,6 +1,6 @@
 # User Wallet View
 
-<img src="https://github.com/aniribe/user_wallet_page/blob/main/assets/images/screen.jpg" height=300px>
+<img src="https://github.com/aniribe/user_wallet_page/blob/main/assets/images/screen.jpg" height=500px>
 
 A page with user's credit cards for a Flutter application.
 
